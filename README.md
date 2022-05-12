@@ -6,6 +6,6 @@ You should read the applications note "AN4578 - Profinet Class A Device Using KS
 It can be found on the web page https://www.microchip.com/ by searching for an4578.
 
 Additional information that is needed, which AN4578 refer to,
-can be found at https://github.com/Microchip-Ethernet/EVB-KSZ9477/tree/master/doc
+can be found at https://github.com/Microchip-Ethernet/EVB-KSZ9477/tree/master/doc.
 
-The KSZ9477 board can be found here https://www.microchip.com/en-us/development-tool/evb-ksz9477-1
+The KSZ9477 board can be found here https://www.microchip.com/en-us/development-tool/evb-ksz9477-1.
