@@ -1,4 +1,4 @@
-# Pre-condiftion file tree:
+# Pre-condition file tree:
 #
 # -+- my_ksz - get.sh
 #  | 
@@ -32,7 +32,7 @@ if [ ! -d EVB-KSZ9477 ]; then
  cd ..
 fi
 
-# (2) --- If the ../profinet-package exist we assume we assume the profinet code
+# (2) --- If the ../profinet-package exist we assume the profinet code
 #         has already been patched in.
 #         Assume ksz-profinet-class-a-sample-application.tar.gz is in ../
 #
